@@ -1,0 +1,93 @@
+body{
+	font-size: 20px;
+    width: 100%;
+    font-family: 'Lora', serif;
+    src: url(../font/Lora-Regular.ttf)
+	}
+
+header{
+	background-color: solid grey;
+    width: 1150px;
+	height: 200px;
+    border: 5px solid gray;
+    padding: 25px;
+    margin: 10px;
+    margin-top: 10px;
+    }
+
+nav{
+	font-size: 15px;
+	text-decoration:none;
+    text-align:right;
+    margin-top:50px;
+    width: 1150px;
+	height: 250px;
+    letter-spacing: 3px;
+    margin-bottom: -100px;
+    padding: 0 0px;
+    }
+
+
+
+a{
+	text-decoration-line: none;
+	color:black;
+    margin-left: -30px;
+    margin-top: -40px;
+    }
+
+aside{
+	float: left;
+	width: 500px;
+	height: 60px;
+	margin: 5px;
+	margin-top: 50px;
+	list-style: none;
+	background-color: white;
+	
+    }
+section{
+	float: right;
+	width: 1000px;
+    margin-top: -50px;
+    margin-right:-150px;
+    }
+
+h1{
+	color: #0a293b;
+	font-size: 90px;
+	text-align: left;
+   
+    }
+
+h2{
+    margin: 10px;
+    font-size: 40px;
+    color: #0a293b;
+  }
+
+   
+h3{
+    margin-top: 20px;
+    font-size: 30px;
+    }
+
+#abajo{
+     margin-top: -80px;
+    }
+
+p {
+    margin-top: 30px;
+    margin-bottom: 150px;
+    margin-right: 150px;
+    margin-left: 150px;
+    text-align: left;
+    }
+
+footer{
+    margin-top: -80px;
+    float: left;
+    position: relative;
+    }
+
+
